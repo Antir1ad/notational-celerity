@@ -38,8 +38,8 @@ python3 build.py
 
 ### Build Options
 - **macOS**: Creates `Notational Celerity` app bundle
+- **GNU/Linux**: Creates `notational-celerity` executable
 - **Windows**: Creates `Notational Celerity.exe`
-- **Linux**: Creates `notational-celerity` executable
 
 ### Clean Build Artifacts
 ```sh
