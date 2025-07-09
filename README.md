@@ -8,7 +8,7 @@ A platform-independent clone of Notational Velocity, built with Python and PyQt5
 - Auto-saving of notes
 - Persistent storage (SQLite-based, encryption soon-ish)
 
-Please note that this app is an optical and functional clone, not a modification or reverse engineering of Notational Velocity or it's source code (which can be found [here] (https://github.com/scrod/nv/).)
+Please note that this app is an optical and functional clone, not a modification or reverse engineering of Notational Velocity or it's source code (which can be found [here](https://github.com/scrod/nv/).)
 
 ## Features
 - Search bar for instant filtering
