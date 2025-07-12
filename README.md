@@ -20,7 +20,7 @@ Please note that this app is an optical and functional clone, not a modification
 ## Setup
 
 1. Install Python 3.7+
-2. Install dependencies:
+2. Install dependencies (PyQt5, tld):
    ```sh
    python3 -m pip install -r requirements.txt
    ```
