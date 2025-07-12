@@ -1,6 +1,6 @@
 # Notational Celerity
 
-A platform-independent clone of Notational Velocity, built with Python and PyQt5. This app aims to replicate the design and feature set of the original Notational Velocity, including:
+A platform-independent homage to Notational Velocity, built with Python and PyQt5. This app aims to replicate the design and feature set of the original Notational Velocity, including:
 
 - Instant search-as-you-type
 - Minimalist, distraction-free interface
